@@ -14,8 +14,8 @@ env/
 .streamlit/
 
 # Model files (if large)
-# *.h5
-# *.keras
+*.h5
+*.keras
 
 # OS files
 .DS_Store
